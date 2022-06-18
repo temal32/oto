@@ -1,3 +1,6 @@
+# Version: 1.0
+# Release date: 16.06.2022
+
 import ctypes
 MessageBox = ctypes.windll.user32.MessageBoxW
 #MessageBox(None, 'By using this program your accept our Terms of Service that can be found here: \nwww.temal.cf/OTO/TOS.html', 'OTOptimizer', 0)
