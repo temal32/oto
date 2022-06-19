@@ -311,19 +311,16 @@ question_7 = input(
     "Would you like to change the Network Adapter Properties for a faster connection? (y/n)")
 debug("Input gotten, answer is: " + question_6)
 if question_7 == "y":
-    debug_and_args = [{'debug': "Disabling Flow Control...", 'arg': "'Flow Control' -DisplayValue 'Disabled'"},
-                      {'debug': "Disabling Power Saving Mode...",
-                          'arg': "'Power Saving Mode' -DisplayValue 'Disabled'"},
-                      {'debug': "Disabling Gigabit Lite...",
-                       'arg': "'Gigabit Lite' -DisplayValue 'Disabled'"},
-                      {'debug': "Disabling Green Ethernet...",
-                       'arg': "'Green Ethernet' -DisplayValue 'Disabled'"},
-                      {'debug': "Disabling Energy-Efficient Ethernet...", 'arg': "'Energy-Efficient Ethernet' -DisplayValue 'Disabled'"}]
+    debug_and_args = [{'debug': "Disabling Flow Control...", 'displayname': 'Flow Control'},
+                      {'debug': "Disabling Power Saving Mode...", 'displayname': 'Power Saving Mode'},
+                      {'debug': "Disabling Gigabit Lite...", 'displayname': 'Gigabit Lite'},
+                      {'debug': "Disabling Green Ethernet...", 'displayname': 'Green Ethernet'},
+                      {'debug': "Disabling Energy-Efficient Ethernet...", 'displayname': 'Energy-Efficient Ethernet'}]
     debug("Calling powershell commands...")
     for x in debug_and_args:
         debug(x['debug'])
         run(
-            f"powershell.exe Set-NetAdapterAdvancedProperty -Name 'Ethernet' -DisplayName {x['arg']}")
+            f"powershell.exe Set-NetAdapterAdvancedProperty -Name 'Ethernet' -DisplayName '{x['displayname']}' -DisplayValue 'Disabled'")
     debug("Done")
     clear()
     show_menu()
