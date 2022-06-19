@@ -305,16 +305,18 @@ else:
 
 #########################################################################################################
 
-
 debug("Operating question 7, waiting for user input...")
 question_7 = input(
     "Would you like to change the Network Adapter Properties for a faster connection? (y/n)")
 debug("Input gotten, answer is: " + question_6)
 if question_7 == "y":
     debug_and_args = [{'debug': "Disabling Flow Control...", 'displayname': 'Flow Control'},
-                      {'debug': "Disabling Power Saving Mode...", 'displayname': 'Power Saving Mode'},
-                      {'debug': "Disabling Gigabit Lite...", 'displayname': 'Gigabit Lite'},
-                      {'debug': "Disabling Green Ethernet...", 'displayname': 'Green Ethernet'},
+                      {'debug': "Disabling Power Saving Mode...",
+                          'displayname': 'Power Saving Mode'},
+                      {'debug': "Disabling Gigabit Lite...",
+                          'displayname': 'Gigabit Lite'},
+                      {'debug': "Disabling Green Ethernet...",
+                          'displayname': 'Green Ethernet'},
                       {'debug': "Disabling Energy-Efficient Ethernet...", 'displayname': 'Energy-Efficient Ethernet'}]
     debug("Calling powershell commands...")
     for x in debug_and_args:
