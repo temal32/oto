@@ -111,7 +111,7 @@ def settings_minecraft():
         print("Option 2 - Low end computer (lowest graphics with the highest FPS)")
         op_1 = input("Enter value: ")
         logging.debug("Input gotten, answer is: " + op_1)
-############################################################################################################################################# HERE
+#############################################################################################################################################
         options_file = f"C:\\Users\\{username}\\AppData\\Roaming\\.minecraft\\optionsof.txt"
         if op_1 == "1":
             options = open(options_file, "w")
