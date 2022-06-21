@@ -1,4 +1,4 @@
 @echo off
-netsh interface tcp set global autotuning=normal
+netsh interface tcp set global autotuning=restricted
 ipconfig /renew
 ipconfig /flushdns
