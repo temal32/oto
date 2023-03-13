@@ -33,3 +33,32 @@ At the same time, the team behind OTO is constantly working to contact anti-viru
 Despite the challenges, the team has been successful in contacting some anti-virus companies, such as Avast, MalwareBytes, and Fortiguard, who have already removed their false positive detections on OTO. This is a positive sign that demonstrates the team's commitment to ensuring the safety and security of OTO, and their willingness to work with anti-virus companies to address any concerns and issues related to the tool.
 
 In conclusion, while there may be concerns related to OTO's safety and security, it is important to note that it is a completely safe and legitimate tool. The team behind OTO is constantly working to address any false positive detections raised by anti-virus programs, and they are committed to ensuring that the tool is accessible and beneficial to users without posing any risks or threats. With its range of performance optimization features and commitment to safety and security, OTO is an excellent choice for users looking to improve their system and gaming performance.</p>
+<h2>Does OT-Optimizer collect personal data?</h2>
+<p>At present, OT-Optimizer is programmed to collect some anonymous data, provided that you allow OTO to do so. When you first launch OTO, it will request your permission to collect anonymous data and continue processing them. If you do not wish for OTO to gather any anonymous data, you can simply decline. In the event that you have previously consented to the collection of anonymous data and wish to withdraw your permission, you can create a ticket in our discord server, and we will guide you through the necessary steps to revoke the collection of anonymous data.
+
+However, if you wish to decline your agreement on your own, you can follow these steps:
+
+1. Open OT-Optimizer
+2. In the menu, enter the number 5 to erase all associated files with OTO. (If it prompts you to delete backup files as well, press Y)
+3. After the process, your agreement to collect anonymous data will be revoked, and OTO will not continue processing any data until you consent again.
+
+If you prefer to decline your agreement without opening OTO again or without deleting OTO backup files, you need to follow these steps:
+
+1. Open your Windows Explorer application
+2. Navigate to the main local disk path where your Windows is installed (usually C).
+3. Find the subfolder "OTO". The path you are now in may look something like "C:\OTO".
+4. Either change the content of the OTO_agreed.txt file to "False" or simply delete the file.
+5. After these steps, your agreement to collect anonymous data will be revoked, and OTO will not continue processing any data until you consent again.
+
+It is important to note that OT-Optimizer only collects anonymous data and error reports to improve the product. We will never sell your data or engage in any similar activity. Your data will be sent to a webhook, which then forwards the collected information to a private discord server where only the developer (that is, me, Temal) can view it.
+
+In terms of the type of anonymous data that OT-Optimizer collects, the following are examples (but not limited to):
+
+- The current version of OTO that you are using (e.g., "2.5").
+- The first letters of your Windows username in an encrypted version (e.g., "5eaa9acecc370aa14860af462e7cda39").
+- The current timestamp (i.e., when you opened OTO, such as 11:30pm).
+- The single drive letter of your main disk where Windows is installed (usually "C").
+- The current Windows system version.
+- Python error reports.
+
+We take your privacy seriously, and we are committed to being transparent about the data we collect and how we use it to improve OT-Optimizer. If you have any concerns or questions regarding data collection, please do not hesitate to reach out to us via Discord (Temal#5222).</p>
