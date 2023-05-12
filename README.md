@@ -61,4 +61,4 @@ In terms of the type of anonymous data that OT-Optimizer collects, the following
 - The current Windows system version.
 - Python error reports.
 
-We take your privacy seriously, and we are committed to being transparent about the data we collect and how we use it to improve OT-Optimizer. If you have any concerns or questions regarding data collection, please do not hesitate to reach out to us via Discord (Temal#5222).</p>
+We take your privacy seriously, and we are committed to being transparent about the data we collect and how we use it to improve OT-Optimizer. If you have any concerns or questions regarding data collection, please do not hesitate to reach out to us via Discord (Temal#3818).</p>
