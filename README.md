@@ -65,7 +65,7 @@ We take your privacy seriously, and we are committed to being transparent about 
 
 # More Frequently Asked Questions
 
-- [Is OT-Optimizer compatible with all versions of Windows?](#1)
+- [Is OT-Optimizer compatible with all versions of Windows?](#Is-OT-Optimizer-compatible-with-all-versions-of-Windows)
 - [How does OT-Optimizer optimize system performance?](#2)
 - [Does OT-Optimizer have any impact on system stability or reliability?](#3)
 - [Can I customize the settings that OT-Optimizer changes on my system?](#4)
@@ -76,7 +76,7 @@ We take your privacy seriously, and we are committed to being transparent about 
 - [Is there a community or forum where users can discuss their experiences with OT-Optimizer?](#9)
 - [Are there any plans for future features or enhancements in upcoming versions of OT-Optimizer?](#10)
 
-## 1
+## Is OT-Optimizer compatible with all versions of Windows?
 Test
 ## 2
 Test
