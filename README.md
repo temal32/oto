@@ -62,3 +62,25 @@ In terms of the type of anonymous data that OT-Optimizer collects, the following
 - Python error reports.
 
 We take your privacy seriously, and we are committed to being transparent about the data we collect and how we use it to improve OT-Optimizer. If you have any concerns or questions regarding data collection, please do not hesitate to reach out to us via Discord (Temal#3818).</p>
+
+# More Frequently Asked Questions
+
+- [Is OT-Optimizer compatible with all versions of Windows?](#1)
+- [How does OT-Optimizer optimize system performance?](#2)
+- [Does OT-Optimizer have any impact on system stability or reliability?](#3)
+- [Can I customize the settings that OT-Optimizer changes on my system?](#4)
+- [How frequently should I run OT-Optimizer for optimal results?](#5)
+- [Does OT-Optimizer require an internet connection to function?](#6)
+- [Does OT-Optimizer require any special technical knowledge or expertise to use effectively?](#7)
+- [How frequently does OT-Optimizer receive updates, and what do these updates typically include?](#8)
+- [Is there a community or forum where users can discuss their experiences with OT-Optimizer?](#9)
+- [Are there any plans for future features or enhancements in upcoming versions of OT-Optimizer?](#10)
+
+## 1
+Test
+## 2
+Test
+## 3
+Test
+## 4
+Test
