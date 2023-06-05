@@ -97,8 +97,8 @@ Yes, there is a community and forum available for OT-Optimizer users to discuss 
 ## Are there any plans for future features or enhancements in upcoming versions of OT-Optimizer?
 Yes, the development team behind OT-Optimizer is continuously working on new features and enhancements to further improve the software. Future versions may introduce additional optimizations, support for new hardware or software, and user-requested features to enhance the overall user experience. Stay tuned for updates on upcoming features and releases.
 # Credits
-Thanks to Danilo and Aetopia for helping
-Thanks to Aetopia for providing 3rd-party tools
+Thanks to Danilo for helping.
+Thanks to Aetopia for helping and for providing 3rd-party tools.
 # Advanced Information 
 OTO first published on 16.06.2022 by @ItzzOwo and @temal32.<br/>
 Now fully operated by @temal32.<br/>
