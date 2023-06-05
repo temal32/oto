@@ -101,8 +101,8 @@ Thanks to Danilo and Aetopia for helping
 Thanks to Aetopia for providing 3rd-party tools
 # Advanced Information 
 OTO first published on 16.06.2022 by @ItzzOwo and @temal32.<br/>
-Now fully operated by @temal32.
-Contact Temal: Temal#1000, twitter.com/temal32
-Contact ItzOwo: ItzOwo#1414, twitter.com/ItzOwo6
-Contact Danilo: Danilo#0001
-Contact Aetopia: Aetopia#1180
+Now fully operated by @temal32.<br/>
+Contact Temal: Temal#1000, twitter.com/temal32<br/>
+Contact ItzOwo: ItzOwo#1414, twitter.com/ItzOwo6<br/>
+Contact Danilo: Danilo#0001<br/>
+Contact Aetopia: Aetopia#1180<br/>
