@@ -96,6 +96,9 @@ OT-Optimizer receives regular updates to introduce new features, enhancements, a
 Yes, there is a community and forum available for OT-Optimizer users to discuss their experiences, share tips, and seek assistance. Currently, the primary platform for community engagement is our official Discord server. Joining the server allows you to connect with other users, ask questions, and stay updated on the latest news and developments related to OT-Optimizer.
 ## Are there any plans for future features or enhancements in upcoming versions of OT-Optimizer?
 Yes, the development team behind OT-Optimizer is continuously working on new features and enhancements to further improve the software. Future versions may introduce additional optimizations, support for new hardware or software, and user-requested features to enhance the overall user experience. Stay tuned for updates on upcoming features and releases.
+# Advanced Information 
+OTO first published in 2022 by @ItzzOwo and @temal32. 
+Now fully operated by @temal32.
 # Credits
 Thanks to Danilo and Aetopia for helping
 Thanks to Aetopia for providing 3rd-party tools
