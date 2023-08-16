@@ -102,7 +102,7 @@ Thanks to Aetopia for helping and for providing 3rd-party tools.
 # Advanced Information 
 OTO first published on 16.06.2022 by @ItzzOwo and @temal32.<br/>
 Now fully operated by @temal32.<br/>
-Contact Temal: Temal#1000, twitter.com/temal32<br/>
-Contact ItzOwo: ItzOwo#1414, twitter.com/ItzOwo6<br/>
-Contact Danilo: Danilo#0001<br/>
-Contact Aetopia: Aetopia#1180<br/>
+Contact Temal via Discord and Twitter: @cmtl, twitter.com/temal32<br/>
+Contact ItzOwo via Discord and Twitter: @itzowo, twitter.com/ItzOwo6<br/>
+Contact Danilo via Discord: @danilo<br/>
+Contact Aetopia via Discord: @aetopia<br/>
